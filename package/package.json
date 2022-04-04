@@ -1,0 +1,12 @@
+{
+  "name": "node_training_app",
+  "version": "1.0.0",
+  "description": "This is the application to train developer to code with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve":"serve ../intro"
+  },
+  "author": "Claude Rukamiza",
+  "license": "ISC"
+}
